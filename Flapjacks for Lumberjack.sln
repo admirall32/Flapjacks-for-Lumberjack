@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flapjacks for Lumberjack", "Flapjacks for Lumberjack.csproj", "{2B295379-97F2-4703-935E-E62FE5740C2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B295379-97F2-4703-935E-E62FE5740C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B295379-97F2-4703-935E-E62FE5740C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B295379-97F2-4703-935E-E62FE5740C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B295379-97F2-4703-935E-E62FE5740C2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF85AD00-A3E5-4443-9F6F-D5051FCCDD0B}
+	EndGlobalSection
+EndGlobal
